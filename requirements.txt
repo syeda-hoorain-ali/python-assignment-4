@@ -1,2 +1,4 @@
 graphics.py
 graphics
+colorama
+rich
